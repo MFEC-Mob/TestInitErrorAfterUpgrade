@@ -29,10 +29,9 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_initObj.getShiba",
-              "name": "initObj.getShiba",
-              "collectionId": "Page1_initObj",
-              "clientSideExecution": true,
+              "id": "Page1_JSObject1.getShiba",
+              "name": "JSObject1.getShiba",
+              "collectionId": "Page1_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "JS",
               "jsonPathKeys": [

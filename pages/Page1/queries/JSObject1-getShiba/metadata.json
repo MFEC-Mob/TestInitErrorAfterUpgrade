@@ -3,7 +3,7 @@
   "pluginId": "js-plugin",
   "unpublishedAction": {
     "name": "getShiba",
-    "fullyQualifiedName": "initObj.getShiba",
+    "fullyQualifiedName": "JSObject1.getShiba",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -14,16 +14,15 @@
       "userPermissions": []
     },
     "pageId": "Page1",
-    "collectionId": "Page1_initObj",
+    "collectionId": "Page1_JSObject1",
     "actionConfiguration": {
-      "timeoutInMillisecond": 10000,
+      "timeoutInMillisecond": 0,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
       "jsArguments": []
     },
     "executeOnLoad": true,
-    "clientSideExecution": true,
     "dynamicBindingPathList": [
       {
         "key": "body"
@@ -36,9 +35,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-02-08T07:09:25Z"
+    "createdAt": "2024-02-09T08:28:41Z"
   },
-  "id": "Page1_initObj.getShiba",
+  "id": "Page1_JSObject1.getShiba",
   "deleted": false,
-  "gitSyncId": "6593ce4bbe89ee6761e987c9_65c47e2576df3c7b9bff5435"
+  "gitSyncId": "65c5dc8c72745c3dbb1d6f46_65c5e23972745c3dbb1d6f56"
 }
